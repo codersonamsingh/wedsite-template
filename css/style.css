@@ -29,3 +29,9 @@ body{
 #navbar li{
     display: inline;
 }
+#navbar a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    
+}
