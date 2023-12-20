@@ -26,3 +26,6 @@ body{
     padding: 0;
     list-style: none;
 }
+#navbar li{
+    display: inline;
+}
