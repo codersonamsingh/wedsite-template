@@ -39,4 +39,5 @@ body{
 #showcase{
     background-image: url('../images/image/nwback.jpgSS');
     background-position: center-right;
+    min-height: 300px;
 }
