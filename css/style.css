@@ -18,7 +18,7 @@ body{
     color: #fff;
 }
 #navbar{
-    background-color: #333;
+    background-color: #07d857;
     color: #fff;
     
 }
@@ -37,7 +37,7 @@ body{
 
 }
 #showcase{
-    background-image: url('../images/image/nwback.jpgSS');
+    background-image: url('../images/image/backgroud.jpg');
     background-position: center-right;
     min-height: 300px;
     margin-bottom: 30px;
@@ -52,5 +52,7 @@ body{
 
 }
 #main{
-    
+    float: left;
+
+
 }
