@@ -56,6 +56,8 @@ body{
     width: 70%;
     padding: 0 30px;
     box-sizing: border-box;
-
-
+}
+#sidebar{
+    float: right;
+    width: 30%;
 }
